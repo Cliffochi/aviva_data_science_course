@@ -1,0 +1,4 @@
+<start> a car parked in front of a car . <end>
+<start> a person holding a piece of cake with a fork . <end>
+<start> a black and white cat is sitting on a couch . <end>
+<start> a car parked in front of a car . <end>
